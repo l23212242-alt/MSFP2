@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33744866/README.md)
+
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=l23212242-alt/MSFP2)
 
 # Práctica 2: Modelado y control del sistema cardiovascular mediante el modelo Windkessel
